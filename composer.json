@@ -1,6 +1,6 @@
 {
-    "name": "kenmoini/akismet",
-    "description": "Laravel 4 Akismet SPAM Processing Engine",
+    "name": "zoul0813/akismet",
+    "description": "Laravel 4 Akismet SPAM Processing Engine (forked from kenmoini/akismet)",
 	"keywords": ["laravel","akismet","spam"],
 	"homepage": "https://github.com/kenmoini/akismet",
     "authors": [
